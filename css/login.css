@@ -1,0 +1,74 @@
+body{margin:0;}
+a{text-decoration:none;}
+.loginTop{
+    width: 1040px;
+    height: 156px;
+    margin: auto;
+    border-bottom:1px solid #0E8087;
+}
+.rightArea{
+    float: right;
+    padding-top: 123px;
+}
+.loginBox{
+    width: 372px;
+    margin:162px 0px 87px 1107px ;
+    background-color: #B7D8E7;
+   -webkit-border-radius: 10px;
+
+}
+.topBox{
+    width: 372px;
+    border-bottom: 1px solid #0E8087;
+}
+.name{
+    padding:30px 116px 10px 120px;
+    width: 136px;
+}
+.middleBox{
+    padding:30px 100px 30px 50px;
+    font-size: 15px;
+    color:#3974C9;
+}
+.logincont{
+    padding-left:65px;
+    padding-right: 65px;
+}
+.input_box{
+    border:1px solid #000000;
+    height: 25px;
+    line-height: 25px\9;
+}
+.using{
+    padding: 15px 0px;
+}
+.atuologin{
+position: relative;
+    left: 15px;
+    margin-left: 25px;
+}
+#a1{margin-left: 65px;
+    margin-bottom:30px;
+}
+.btn{
+    padding-top:15px;
+}
+.login_btn{
+    float: left;
+    margin-left: 20px;
+   width: 80px;
+   height: 25px;
+    margin-bottom: 40px;
+   background-color:#3974C9;
+    color: #ffffff;
+    -webkit-border-radius: 10px;
+}
+.reg_btn{
+    width: 80px;
+    height: 25px;
+   margin-left: 40px;
+    margin-bottom: 40px;
+    background-color:#3974C9;
+    color: #ffffff;
+    -webkit-border-radius: 10px;
+}
