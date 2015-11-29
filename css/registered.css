@@ -1,0 +1,70 @@
+body{margin:0;
+background-color: #E4E5E5;
+}
+.RegTop {
+    width: 1040px;
+    height: 156px;
+    margin: 0 439px;
+    margin-bottom: 0px;
+
+}
+.leftbox{
+    float: left;
+    padding-top: 35px;
+
+}
+.mainbox{
+    margin-top: 50px;
+    margin-left: 439px;
+}
+.reg_box{
+    width: 650px;
+    padding: 65px 200px 65px 250px;
+    background-color: #FFFFFF;
+    height: 460px;
+}
+.ZCbox{
+    margin-left: 35px;
+}
+.username {
+   padding-top: 120px;
+   padding-bottom: 25px;
+    padding-left: 88px;
+}
+.pw{
+    padding-bottom: 25px;
+    padding-left: 104px;
+}
+.realpw{
+    padding-bottom: 25px;
+    padding-left: 72px;
+}
+.mail{
+    padding-bottom: 25px;
+}
+.input_box{
+    border:1px solid #000000;
+    height: 25px;
+    line-height: 25px\9;
+
+}
+.btn_reg{
+    padding-left:120px;
+    width: 300px;
+    padding-top: 15px;
+}
+.get_Vcode{
+    background-color: white;
+    width: 95px;
+
+}
+.real_reg{
+         width: 225px;
+    height: 30px;
+    background-color: #0075A9;
+    color: #FFFFFF;
+    -webkit-border-radius: 10px;
+}
+sup{
+    color: red;
+}
