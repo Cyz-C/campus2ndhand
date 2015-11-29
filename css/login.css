@@ -14,18 +14,18 @@ a{text-decoration:none;}
 }
 .rightArea{
     float: right;
-    padding-top: 123px;
+    padding-top: 100px;
 }
 .container{
      background-color: #0075A9;
-    height: 440px;
+    height: 500px;
 
  }
 .loginBox{
     width: 372px;
     margin: 0px 200px 50px 1100px;
    -webkit-border-radius: 10px;
-   padding-top: 15px;
+   padding-top: 30px;
 }
 .DLbox{
   border-spacing: 10px 0;
