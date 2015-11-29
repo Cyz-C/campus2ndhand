@@ -3,23 +3,36 @@ a{text-decoration:none;}
 .loginTop{
     width: 1040px;
     height: 156px;
-    margin: auto;
-    border-bottom:1px solid #0E8087;
+    margin: 0 439px;
+    margin-bottom: 0px;
+
+
+}
+.leftArea{
+    float: left;
+    padding-top: 35px;
 }
 .rightArea{
     float: right;
     padding-top: 123px;
 }
+.container{
+     background-color: #0075A9;
+    height: 440px;
+
+ }
 .loginBox{
     width: 372px;
-    margin:162px 0px 87px 1107px ;
+    margin: 0px 200px 50px 1100px;
     background-color: #B7D8E7;
    -webkit-border-radius: 10px;
 
 }
+
 .topBox{
     width: 372px;
     border-bottom: 1px solid #0E8087;
+    margin-top: 10px;
 }
 .name{
     padding:30px 116px 10px 120px;
